@@ -64,6 +64,8 @@ Installation
 
       $ pkg install git
 
+      $ rm -rf BUGBOT
+
       $ git clone https://github.com/UDMODZ/BUGBOT
 
       $ npm install
