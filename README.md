@@ -37,14 +37,56 @@
 
 **Run on Termux**
 
+Installation
 
+<p align="left">° Run 1 by one </p>
 
 ```
-      Not working.we will be fix in v2
+      $ pkg upgrade -y
+
+      $ pkg update -y
+
+      $ pkg install figlet -y
+
+      $ pkg install wget -y
+
+      $ pkg install ffmpeg
+
+      $ pkg install ffmpeg -y
+
+      $ pkg install imagemagik
+
+      $ pkg install libwebp -y
+
+      $ pkg install nodejs -y
+
+      $ pkg install imagemagik -y
+
+      $ pkg install git
+
+      $ git clone https://github.com/UDMODZ/BUGBOT
+
+      $ npm install
 
 ```
 
+Start
 
+<p align="left">° Run following commands</p>
+
+```
+      $ cd BUGBOT
+
+      $ npm start
+```
+
+<p align="left">° it will ask for your number.enter your number with international form like 94704638406</p>
+<p align="left">° After that it will give you a Eight digit code.go to whatsapp->three dots-> linked devices->link a new device->link with phone number insted . now type the eight digit code and wait till linking finishes.
+<p align="left">° You did it 😇 type .menu to get menu</p>
+<p align="left">° if you want help contact 
+<a href="https://wa.me/94704638406"> me</a>
+<p align="left"><a href="https://github.com/UDMODZ/BUGBOT/edit/main/README.md#support-udmodz-">° Stay updated with us</a></p>
+<p align="left">° Dont forget to leave a 🌟 star</p>
 
 
 
