@@ -1,4 +1,4 @@
-# BUGBOT :- _A Javascript WhatsApp User Bot_
+# BUGBOT :- _A NodeJs WhatsApp User Bot_
 *A WhatsApp based third party application.*
 
 
@@ -37,7 +37,7 @@
 
 **Run on Termux**
 
-Installation
+_Installation_
 
 <p align="left">° Run 1 by one </p>
 
@@ -72,7 +72,7 @@ Installation
 
 ```
 
-Start
+_Start_
 
 <p align="left">° Run following commands</p>
 
