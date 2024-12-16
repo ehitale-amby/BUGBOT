@@ -1,6 +1,6 @@
 global.namaown = "UDMODZ" // Owner Name
 global.namabot = "𝗨𝗗𝗕𝗨𝗚𝗕𝗢𝗧" // Bot name
-global.versisc = "1.0" // Vertion
+global.versisc = "2.0" // Vertion
 global.owner = ["92704638406"] // Owners Whatsapp number
 global.tele = "https://t.me/UDMODZ3" // Telegram Channel
 global.url = "https://www.youtube.com/@UDMODZ" // Yt Channel
